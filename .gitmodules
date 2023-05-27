@@ -9,3 +9,6 @@
 [submodule "lib/era-system-contracts"]
 	path = lib/era-system-contracts
 	url = https://github.com/matter-labs/era-system-contracts
+[submodule "lib/core-contracts"]
+	path = lib/core-contracts
+	url = https://github.com/syncswap/core-contracts
